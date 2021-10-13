@@ -1,3 +1,5 @@
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gustavotc95/api-node-sem-framework"> <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/gustavotc95/api-node-sem-framework"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gustavotc95/api-node-sem-framework">
+
 # API Node sem framework
 
 CRUD (Create, Read, Update and Delete) básico de usuarios em node sem o uso de um framework.
