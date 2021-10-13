@@ -7,24 +7,22 @@ CRUD (Create, Read, Update and Delete) básico de usuarios em node sem o uso de 
 
 ## Run Locally
 
-Clone o projeto
-
 ```bash
-git clone https://github.com/gustavotc95/api-node-sem-framework
+
+# Clone o projeto
+$ git clone https://github.com/gustavotc95/api-node-sem-framework
+
+
+# Vá para o diretório do projeto
+$ cd api-node-sem-framework
+
+
+# Inicie o servidor
+$ node src/index.js
+
+# O servidor inciará na porta:3333 - acesse <http://localhost:3333> 
+
 ```
-
-Vá para o diretório do projeto
-
-```bash
-cd api-node-sem-framework
-```
-
-Inicie o servidor
-
-```bash
-node src/index.js
-```
-
   
 ## API Reference
 
