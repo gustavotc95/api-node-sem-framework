@@ -22,7 +22,7 @@ $ cd api-node-sem-framework
 # Inicie o servidor
 $ node src/index.js
 
-# O servidor inciará na porta:3333 - acesse <http://localhost:3333> 
+# O servidor inciará na porta:3030 - acesse <http://localhost:3030> 
 
 ```
   
